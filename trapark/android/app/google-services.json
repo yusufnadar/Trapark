@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905379539262",
+    "project_id": "otopark-fdb71",
+    "storage_bucket": "otopark-fdb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905379539262:android:d4d13d214c7a0ebd5ee46f",
+        "android_client_info": {
+          "package_name": "com.example.otopark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905379539262-thlevibn10n4a4vdug2n874mdg8umtnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otopark",
+            "certificate_hash": "b0bf947072144f793a21da21a654a454d00ccae9"
+          }
+        },
+        {
+          "client_id": "905379539262-vv0onp80138725qq0r5al5bseji8ja3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgT-LfiiGW1lbaM8F6lft2qfVY-jZX02g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905379539262-vv0onp80138725qq0r5al5bseji8ja3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
